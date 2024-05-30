@@ -171,9 +171,9 @@
                             <div class="header-inner-end text-md-end">
                                 <div class="ovic-menu-wrapper ovic-menu-wrapper-2">
                                     <ul>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="contact.html">Order Tracking</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="{{url('about')}}">About Us</a></li>
+                                        <li><a href="{{url('contact')}}">Order Tracking</a></li>
+                                        <li><a href="{{url('contact')}}">Contact Us</a></li>
                                         <li><a href="faq.html">FAQs</a></li>
                                     </ul>
                                 </div>
@@ -264,13 +264,13 @@
                                                         class="cart__item d-flex justify-content-between align-items-center">
                                                         <div class="cart__inner d-flex">
                                                             <div class="cart__thumb">
-                                                                <a href="product-details.html">
+                                                                <a href="{{url('shop')}}">
                                                                     <img src="public/assets/img/cart/20.jpg"
                                                                         alt="">
                                                                 </a>
                                                             </div>
                                                             <div class="cart__details">
-                                                                <h6><a href="product-details.html"> Samsung C49J89:
+                                                                <h6><a href="{{url('shop')}}"> Samsung C49J89:
                                                                         £875, Debenhams Plus </a></h6>
                                                                 <div class="cart__price">
                                                                     <span>$255.00</span>
@@ -320,48 +320,48 @@
                                                 <ul class="mega-menu">
                                                     <li><a href="{{url('shop')}}">Shop Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Standard SHop Page</a>
+                                                            <li><a href="{{url('shop')}}">Standard SHop Page</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop Right Sidebar</a>
+                                                            <li><a href="{{url('shop')}}">Shop Right Sidebar</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop Left Sidebar</a>
+                                                            <li><a href="{{url('shop')}}">Shop Left Sidebar</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop 3 Column</a></li>
-                                                            <li><a href="product-details.html">Shop 4 Column</a></li>
+                                                            <li><a href="{{url('shop')}}">Shop 3 Column</a></li>
+                                                            <li><a href="{{url('shop')}}">Shop 4 Column</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Product Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Product Details</a></li>
-                                                            <li><a href="product-details.html">Product V2</a></li>
-                                                            <li><a href="product-details.html">Product V3</a></li>
-                                                            <li><a href="product-details.html">Varriable Product</a>
+                                                            <li><a href="{{url('shop')}}">Product Details</a></li>
+                                                            <li><a href="{{url('shop')}}">Product V2</a></li>
+                                                            <li><a href="{{url('shop')}}">Product V3</a></li>
+                                                            <li><a href="{{url('shop')}}">Varriable Product</a>
                                                             </li>
-                                                            <li><a href="product-details.html">External Product</a>
+                                                            <li><a href="{{url('shop')}}">External Product</a>
                                                             </li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Other Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">wishlist</a></li>
-                                                            <li><a href="product-details.html">Shopping Cart</a></li>
-                                                            <li><a href="product-details.html">Checkout</a></li>
-                                                            <li><a href="product-details.html">Login</a></li>
-                                                            <li><a href="product-details.html">Register</a></li>
+                                                            <li><a href="{{url('shop')}}">wishlist</a></li>
+                                                            <li><a href="{{url('shop')}}">Shopping Cart</a></li>
+                                                            <li><a href="{{url('shop')}}">Checkout</a></li>
+                                                            <li><a href="{{url('shop')}}">Login</a></li>
+                                                            <li><a href="{{url('shop')}}">Register</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Phone &amp; Tablets</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Catagory 1</a></li>
-                                                            <li><a href="product-details.html">Catagory 2</a></li>
-                                                            <li><a href="product-details.html">Catagory 3</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 1</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 2</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 3</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Phone &amp; Tablets</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Catagory 1</a></li>
-                                                            <li><a href="product-details.html">Catagory 2</a></li>
-                                                            <li><a href="product-details.html">Catagory 3</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 1</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 2</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 3</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -372,48 +372,48 @@
                                                 <ul class="mega-menu mega-menu-2">
                                                     <li><a href="{{url('shop')}}">Shop Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Standard SHop Page</a>
+                                                            <li><a href="{{url('shop')}}">Standard SHop Page</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop Right Sidebar</a>
+                                                            <li><a href="{{url('shop')}}">Shop Right Sidebar</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop Left Sidebar</a>
+                                                            <li><a href="{{url('shop')}}">Shop Left Sidebar</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop 3 Column</a></li>
-                                                            <li><a href="product-details.html">Shop 4 Column</a></li>
+                                                            <li><a href="{{url('shop')}}">Shop 3 Column</a></li>
+                                                            <li><a href="{{url('shop')}}">Shop 4 Column</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Product Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Product Details</a></li>
-                                                            <li><a href="product-details.html">Product V2</a></li>
-                                                            <li><a href="product-details.html">Product V3</a></li>
-                                                            <li><a href="product-details.html">Varriable Product</a>
+                                                            <li><a href="{{url('shop')}}">Product Details</a></li>
+                                                            <li><a href="{{url('shop')}}">Product V2</a></li>
+                                                            <li><a href="{{url('shop')}}">Product V3</a></li>
+                                                            <li><a href="{{url('shop')}}">Varriable Product</a>
                                                             </li>
-                                                            <li><a href="product-details.html">External Product</a>
+                                                            <li><a href="{{url('shop')}}">External Product</a>
                                                             </li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Other Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">wishlist</a></li>
-                                                            <li><a href="product-details.html">Shopping Cart</a></li>
-                                                            <li><a href="product-details.html">Checkout</a></li>
-                                                            <li><a href="product-details.html">Login</a></li>
-                                                            <li><a href="product-details.html">Register</a></li>
+                                                            <li><a href="{{url('shop')}}">wishlist</a></li>
+                                                            <li><a href="{{url('shop')}}">Shopping Cart</a></li>
+                                                            <li><a href="{{url('shop')}}">Checkout</a></li>
+                                                            <li><a href="{{url('shop')}}">Login</a></li>
+                                                            <li><a href="{{url('shop')}}">Register</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Phone &amp; Tablets</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Catagory 1</a></li>
-                                                            <li><a href="product-details.html">Catagory 2</a></li>
-                                                            <li><a href="product-details.html">Catagory 3</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 1</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 2</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 3</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Phone &amp; Tablets</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Catagory 1</a></li>
-                                                            <li><a href="product-details.html">Catagory 2</a></li>
-                                                            <li><a href="product-details.html">Catagory 3</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 1</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 2</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 3</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -426,48 +426,48 @@
                                                 <ul class="mega-menu">
                                                     <li><a href="{{url('shop')}}">Shop Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Standard SHop Page</a>
+                                                            <li><a href="{{url('shop')}}">Standard SHop Page</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop Right Sidebar</a>
+                                                            <li><a href="{{url('shop')}}">Shop Right Sidebar</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop Left Sidebar</a>
+                                                            <li><a href="{{url('shop')}}">Shop Left Sidebar</a>
                                                             </li>
-                                                            <li><a href="product-details.html">Shop 3 Column</a></li>
-                                                            <li><a href="product-details.html">Shop 4 Column</a></li>
+                                                            <li><a href="{{url('shop')}}">Shop 3 Column</a></li>
+                                                            <li><a href="{{url('shop')}}">Shop 4 Column</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Product Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Product Details</a></li>
-                                                            <li><a href="product-details.html">Product V2</a></li>
-                                                            <li><a href="product-details.html">Product V3</a></li>
-                                                            <li><a href="product-details.html">Varriable Product</a>
+                                                            <li><a href="{{url('shop')}}">Product Details</a></li>
+                                                            <li><a href="{{url('shop')}}">Product V2</a></li>
+                                                            <li><a href="{{url('shop')}}">Product V3</a></li>
+                                                            <li><a href="{{url('shop')}}">Varriable Product</a>
                                                             </li>
-                                                            <li><a href="product-details.html">External Product</a>
+                                                            <li><a href="{{url('shop')}}">External Product</a>
                                                             </li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Other Pages</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">wishlist</a></li>
-                                                            <li><a href="product-details.html">Shopping Cart</a></li>
-                                                            <li><a href="product-details.html">Checkout</a></li>
-                                                            <li><a href="product-details.html">Login</a></li>
-                                                            <li><a href="product-details.html">Register</a></li>
+                                                            <li><a href="{{url('shop')}}">wishlist</a></li>
+                                                            <li><a href="{{url('shop')}}">Shopping Cart</a></li>
+                                                            <li><a href="{{url('shop')}}">Checkout</a></li>
+                                                            <li><a href="{{url('shop')}}">Login</a></li>
+                                                            <li><a href="{{url('shop')}}">Register</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Phone &amp; Tablets</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Catagory 1</a></li>
-                                                            <li><a href="product-details.html">Catagory 2</a></li>
-                                                            <li><a href="product-details.html">Catagory 3</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 1</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 2</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 3</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="{{url('shop')}}">Phone &amp; Tablets</a>
                                                         <ul class="mega-item">
-                                                            <li><a href="product-details.html">Catagory 1</a></li>
-                                                            <li><a href="product-details.html">Catagory 2</a></li>
-                                                            <li><a href="product-details.html">Catagory 3</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 1</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 2</a></li>
+                                                            <li><a href="{{url('shop')}}">Catagory 3</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -622,7 +622,7 @@
                                 <div class="footer__widget-content">
                                     <div class="footer__link footer__link-2">
                                         <ul>
-                                            <li><a href="contact.html">Product Support</a></li>
+                                            <li><a href="{{url('contact')}}">Product Support</a></li>
                                             <li><a href="checkout.html">Checkout</a></li>
                                             <li><a href="cart.html">Shopping Cart</a></li>
                                             <li><a href="wishlist.html">Wishlist</a></li>
@@ -661,7 +661,7 @@
                                     <div class="footer__link footer__link-2">
                                         <ul>
                                             <li><a href="faq.html">Help Center</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="{{url('contact')}}">Contact Us</a></li>
                                             <li><a href="faq.html">Report Abuse</a></li>
                                             <li><a href="faq.html">Submit a Dispute</a></li>
                                             <li><a href="faq.html">Policies &amp; Rules</a></li>
@@ -702,12 +702,12 @@
                             <div class="col-xl-12">
                                 <div class="footer__links footer__links-d text-center mb-25">
                                     <p>
-                                        <a href="about.html">About Us</a>
-                                        <a href="contact.html">Delivery & Return</a>
+                                        <a href="{{url('about')}}">About Us</a>
+                                        <a href="{{url('contact')}}">Delivery & Return</a>
                                         <a href="faq.html">Privacy Policy</a>
                                         <a href="faq.html">Help</a>
-                                        <a href="contact.html">Order Tracking</a>
-                                        <a href="contact.html">Contact Us</a>
+                                        <a href="{{url('contact')}}">Order Tracking</a>
+                                        <a href="{{url('contact')}}">Contact Us</a>
                                         <a href="faq.html">FAQs </a>
                                     </p>
                                 </div>

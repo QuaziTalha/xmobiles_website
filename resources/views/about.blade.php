@@ -12,7 +12,7 @@
                         <h3>About Us</h3>
                         <p>A wonderful serenity has taken possession of my entire soul, like these <br> sweet mornings of spring which I enjoy with my whole heart.</p>
                         <div class="page-bottom-btn mt-55">
-                            <a href="shop.html" class="st-btn-4">Discover now</a>
+                            <a href="{{url('shop')}}" class="st-btn-4">Discover now</a>
                         </div>
                     </div>
                 </div>
@@ -211,13 +211,13 @@
                     <div class="single-team text-center mb-30">
                         <div class="team-image mb-35 w-img">
                             <div class="inner-timg">
-                                <a href="about.html">
+                                <a href="{{url('about')}}">
                                     <img src="public/assets/img/team/person-3.jpg" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="tauthor-degination mb-15">
-                            <h5><a href="about.html">Iqbal Hossain</a></h5>
+                            <h5><a href="{{url('about')}}">Iqbal Hossain</a></h5>
                             <span>CEO & Pounder</span>
                         </div>
                         <div class="team-social">
@@ -232,13 +232,13 @@
                     <div class="single-team text-center mb-30">
                         <div class="team-image mb-35 w-img">
                             <div class="inner-timg">
-                                <a href="about.html">
+                                <a href="{{url('about')}}">
                                     <img src="public/assets/img/team/person-4.jpg" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="tauthor-degination mb-15">
-                            <h5><a href="about.html">Robin Gomes</a></h5>
+                            <h5><a href="{{url('about')}}">Robin Gomes</a></h5>
                             <span>CEO & Pounder</span>
                         </div>
                         <div class="team-social">
@@ -253,13 +253,13 @@
                     <div class="single-team text-center mb-30">
                         <div class="team-image mb-35 w-img">
                             <div class="inner-timg">
-                                <a href="about.html">
+                                <a href="{{url('about')}}">
                                     <img src="public/assets/img/team/person-5.jpg" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="tauthor-degination mb-15">
-                            <h5><a href="about.html">Merry Bob</a></h5>
+                            <h5><a href="{{url('about')}}">Merry Bob</a></h5>
                             <span>CEO & Pounder</span>
                         </div>
                         <div class="team-social">

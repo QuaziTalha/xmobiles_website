@@ -15,7 +15,7 @@
                                     <h2 data-animation="fadeInLeft" data-delay="1.7s" class="pt-15 slider-title pb-5">Gaming Headset<br> Brilliant Lighting Effect</h2>
                                     <p class="pr-20 slider_text" data-animation="fadeInLeft" data-delay="1.9s">Discount 40% On Products & Free Shipping</p>
                                     <div class="slider-bottom-btn mt-65">
-                                        <a data-animation="fadeInUp" data-delay="1.15s" href="shop.html" class="st-btn-border b-radius-2">Discover now</a>
+                                        <a data-animation="fadeInUp" data-delay="1.15s" href="{{url('shop')}}" class="st-btn-border b-radius-2">Discover now</a>
                                     </div>
                                 </div>
                             </div><!-- /single-slider -->
@@ -24,7 +24,7 @@
                                     <h2 data-animation="fadeInLeft" data-delay="1.5s" class="pt-15 slider-title pb-5">SALE 20% OFF<br> SAMSUNG GALAXY BUDS </h2>
                                     <p class="pr-20 slider_text" data-animation="fadeInLeft" data-delay="1.7s">Discount 30% On Products & Free Shipping</p>
                                     <div class="slider-bottom-btn mt-65">
-                                        <a data-animation="fadeInUp" data-delay="1.9s" href="shop.html" class="st-btn-border b-radius-2">Discover now</a>
+                                        <a data-animation="fadeInUp" data-delay="1.9s" href="{{url('shop')}}" class="st-btn-border b-radius-2">Discover now</a>
                                     </div>
                                 </div>
                             </div><!-- /single-slider -->
@@ -33,7 +33,7 @@
                                     <h2 data-animation="fadeInLeft" data-delay="1.5s" class="pt-15 slider-title pb-5">Sport Edition<br> Red Special Edition</h2>
                                     <p class="pr-20 slider_text" data-animation="fadeInLeft" data-delay="1.8s">Wireless Connection With TV, Computer, Laptop... </p>
                                     <div class="slider-bottom-btn mt-65">
-                                        <a data-animation="fadeInUp" data-delay="1.10s" href="shop.html" class="st-btn-border b-radius-2">Discover now</a>
+                                        <a data-animation="fadeInUp" data-delay="1.10s" href="{{url('shop')}}" class="st-btn-border b-radius-2">Discover now</a>
                                     </div>
                                 </div>
                             </div><!-- /single-slider -->
@@ -46,10 +46,10 @@
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="banner__item p-relative w-img mb-30">
                                 <div class="banner__img b-radius-2">
-                                    <a href="product-details.html"><img src="public/assets/img/banner/banner-10.jpg" alt=""></a>
+                                    <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-10.jpg" alt=""></a>
                                 </div>
                                 <div class="banner__content banner__content-2">
-                                    <h6><a href="product-details.html">Canyon <br> Star Raider</a></h6>
+                                    <h6><a href="{{url('shop')}}">Canyon <br> Star Raider</a></h6>
                                     <p>Headphone & Audio</p>
                                 </div>
                             </div>
@@ -57,10 +57,10 @@
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="banner__item p-relative w-img mb-30">
                                 <div class="banner__img b-radius-2">
-                                    <a href="product-details.html"><img src="public/assets/img/banner/banner-11.jpg" alt=""></a>
+                                    <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-11.jpg" alt=""></a>
                                 </div>
                                 <div class="banner__content banner__content-2">
-                                    <h6><a href="product-details.html">Phone <br> Galaxy S20</a></h6>
+                                    <h6><a href="{{url('shop')}}">Phone <br> Galaxy S20</a></h6>
                                     <p>Cellphone & Tablets</p>
                                 </div>
                             </div>
@@ -68,10 +68,10 @@
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="banner__item p-relative w-img mb-30">
                                 <div class="banner__img b-radius-2">
-                                    <a href="product-details.html"><img src="public/assets/img/banner/banner-13.jpg" alt=""></a>
+                                    <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-13.jpg" alt=""></a>
                                 </div>
                                 <div class="banner__content banner__content-2">
-                                    <h6><a href="product-details.html">Galaxy <br> Buds Plus</a></h6>
+                                    <h6><a href="{{url('shop')}}">Galaxy <br> Buds Plus</a></h6>
                                     <p>Headphone & Audio</p>
                                 </div>
                             </div>
@@ -79,10 +79,10 @@
                         <div class="col-xl-6 col-lg-6 col-md-6">
                             <div class="banner__item p-relative w-img mb-30">
                                 <div class="banner__img b-radius-2">
-                                    <a href="product-details.html"><img src="public/assets/img/banner/banner-12.jpg" alt=""></a>
+                                    <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-12.jpg" alt=""></a>
                                 </div>
                                 <div class="banner__content banner__content-2">
-                                    <h6><a href="product-details.html">Chair <br>Swoon Lounge</a></h6>
+                                    <h6><a href="{{url('shop')}}">Chair <br>Swoon Lounge</a></h6>
                                     <p>Headphone & Audio</p>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@
                             <h5 class="st-titile">Hot Trending Products</h5>
                         </div>
                         <div class="button-wrap button-wrap-2">
-                            <a href="product.html">See All Product <i class="fal fa-chevron-right"></i></a>
+                            <a href="{{url('shop')}}">See All Product <i class="fal fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-1.jpg" alt="product">
                                 </a>
                             </div>
@@ -137,7 +137,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Epple iPad Pro 10.5-inch Cellular 64G</a></h6>
+                            <h6><a href="{{url('shop')}}">Epple iPad Pro 10.5-inch Cellular 64G</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -163,7 +163,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-2.jpg" alt="product">
                                 </a>
                             </div>
@@ -183,7 +183,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Men Size Yellow Basketball Jerseys</a></h6>
+                            <h6><a href="{{url('shop')}}">Men Size Yellow Basketball Jerseys</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -209,7 +209,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-3.jpg" alt="product">
                                 </a>
                             </div>
@@ -232,7 +232,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Xbox Wireless Game Controller Pink</a></h6>
+                            <h6><a href="{{url('shop')}}">Xbox Wireless Game Controller Pink</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -258,7 +258,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-7.jpg" alt="product">
                                 </a>
                             </div>
@@ -278,7 +278,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">APPO R11s 64GB Dual 20MP Cameras</a></h6>
+                            <h6><a href="{{url('shop')}}">APPO R11s 64GB Dual 20MP Cameras</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -304,7 +304,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-10.jpg" alt="product">
                                 </a>
                             </div>
@@ -324,7 +324,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">G951s Pink Stereo Gaming Headset</a></h6>
+                            <h6><a href="{{url('shop')}}">G951s Pink Stereo Gaming Headset</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -350,7 +350,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-9.jpg" alt="product">
                                 </a>
                             </div>
@@ -370,7 +370,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Epple iPhone 11 Pro Max 64GB Gold</a></h6>
+                            <h6><a href="{{url('shop')}}">Epple iPhone 11 Pro Max 64GB Gold</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -407,7 +407,7 @@
                             <h5 class="st-titile">Popular Categories</h5>
                         </div>
                         <div class="button-wrap button-wrap-2">
-                            <a href="product.html">See All Product <i class="fal fa-chevron-right"></i></a>
+                            <a href="{{url('shop')}}">See All Product <i class="fal fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -416,10 +416,10 @@
                 <div class="col-xl-2 col-lg-3 col-md-4">
                     <div class="categories__item p-relative w-img mb-30">
                         <div class="categories__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/categorie/cat-1.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/categorie/cat-1.jpg" alt=""></a>
                         </div>
                         <div class="categories__content">
-                            <h6><a href="product-details.html">Decor & Furniture</a></h6>
+                            <h6><a href="{{url('shop')}}">Decor & Furniture</a></h6>
                             <p>(7 Products)</p>
                         </div>
                     </div>
@@ -427,10 +427,10 @@
                 <div class="col-xl-2 col-lg-3 col-md-4">
                     <div class="categories__item p-relative w-img mb-30">
                         <div class="categories__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/categorie/cat-2.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/categorie/cat-2.jpg" alt=""></a>
                         </div>
                         <div class="categories__content">
-                            <h6><a href="product-details.html">Smart Phones</a></h6>
+                            <h6><a href="{{url('shop')}}">Smart Phones</a></h6>
                             <p>(12 Products)</p>
                         </div>
                     </div>
@@ -438,10 +438,10 @@
                 <div class="col-xl-2 col-lg-3 col-md-4">
                     <div class="categories__item p-relative w-img mb-30">
                         <div class="categories__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/categorie/cat-3.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/categorie/cat-3.jpg" alt=""></a>
                         </div>
                         <div class="categories__content">
-                            <h6><a href="product-details.html">Fashion & Clothing</a></h6>
+                            <h6><a href="{{url('shop')}}">Fashion & Clothing</a></h6>
                             <p>(5 Products)</p>
                         </div>
                     </div>
@@ -449,10 +449,10 @@
                 <div class="col-xl-2 col-lg-3 col-md-4">
                     <div class="categories__item p-relative w-img mb-30">
                         <div class="categories__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/categorie/cat-4.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/categorie/cat-4.jpg" alt=""></a>
                         </div>
                         <div class="categories__content">
-                            <h6><a href="product-details.html">Home Kitchen</a></h6>
+                            <h6><a href="{{url('shop')}}">Home Kitchen</a></h6>
                             <p>(9 Products)</p>
                         </div>
                     </div>
@@ -460,10 +460,10 @@
                 <div class="col-xl-2 col-lg-3 col-md-4">
                     <div class="categories__item p-relative w-img mb-30">
                         <div class="categories__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/categorie/cat-5.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/categorie/cat-5.jpg" alt=""></a>
                         </div>
                         <div class="categories__content">
-                            <h6><a href="product-details.html">Camera & Photos</a></h6>
+                            <h6><a href="{{url('shop')}}">Camera & Photos</a></h6>
                             <p>(7 Products)</p>
                         </div>
                     </div>
@@ -471,10 +471,10 @@
                 <div class="col-xl-2 col-lg-3 col-md-4">
                     <div class="categories__item p-relative w-img mb-30">
                         <div class="categories__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/categorie/cat-6.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/categorie/cat-6.jpg" alt=""></a>
                         </div>
                         <div class="categories__content">
-                            <h6><a href="product-details.html">Speaker & Audio</a></h6>
+                            <h6><a href="{{url('shop')}}">Speaker & Audio</a></h6>
                             <p>(15 Products)</p>
                         </div>
                     </div>
@@ -516,7 +516,7 @@
                             <div class="col-lg-6">
                                 <div class="features-thum">
                                     <div class="features-product-image w-img">
-                                        <a href="product-details.html"><img src="public/assets/img/features-product/fpb-1.jpg" alt=""></a>
+                                        <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fpb-1.jpg" alt=""></a>
                                     </div>
                                     <div class="product__offer">
                                         <span class="discount">-15%</span>
@@ -535,7 +535,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="product__content product__content-d product__content-d-2">
-                                    <h6><a href="product-details.html">APPO R11s 64GB Dual 20MP Cameras</a></h6>
+                                    <h6><a href="{{url('shop')}}">APPO R11s 64GB Dual 20MP Cameras</a></h6>
                                     <div class="rating mb-5">
                                         <ul class="rating-d">
                                             <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -551,10 +551,10 @@
                                     </div>
                                     <div class="features-des mb-20">
                                         <ul>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                         </ul>
                                     </div>
                                     <div class="progress mb-5">
@@ -577,7 +577,7 @@
                             <div class="col-lg-6">
                                 <div class="features-thum">
                                     <div class="features-product-image w-img">
-                                        <a href="product-details.html"><img src="public/assets/img/features-product/fpb-2.jpg" alt=""></a>
+                                        <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fpb-2.jpg" alt=""></a>
                                     </div>
                                     <div class="product-action product-action-2">
                                         <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -593,7 +593,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="product__content product__content-d product__content-d-2">
-                                    <h6><a href="product-details.html">Redmi Note 10 128GB International Model</a></h6>
+                                    <h6><a href="{{url('shop')}}">Redmi Note 10 128GB International Model</a></h6>
                                     <div class="rating mb-5">
                                         <ul class="rating-d">
                                             <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -609,10 +609,10 @@
                                     </div>
                                     <div class="features-des mb-20">
                                         <ul>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                         </ul>
                                     </div>
                                     <div class="progress mb-5">
@@ -641,10 +641,10 @@
                 <div class="col-xl-4 col-lg-4 col-md-12">
                     <div class="banner__item p-relative w-img mb-30">
                         <div class="banner__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/banner/banner-14.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-14.jpg" alt=""></a>
                         </div>
                         <div class="banner__content banner__content-2">
-                            <h6><a href="product-details.html">Microsoft <br> Surface Laptop 14”</a></h6>
+                            <h6><a href="{{url('shop')}}">Microsoft <br> Surface Laptop 14”</a></h6>
                             <p class="sm-p">Up To -30%</p>
                         </div>
                     </div>
@@ -652,10 +652,10 @@
                 <div class="col-xl-4 col-lg-4 col-md-12">
                     <div class="banner__item p-relative mb-30 w-img">
                         <div class="banner__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/banner/banner-15.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-15.jpg" alt=""></a>
                         </div>
                         <div class="banner__content banner__content-2">
-                            <h6><a href="product-details.html">Cameras <br>Best Sport Edition </a></h6>
+                            <h6><a href="{{url('shop')}}">Cameras <br>Best Sport Edition </a></h6>
                             <p class="sm-p">Up To -20%</p>
                         </div>
                     </div>
@@ -663,10 +663,10 @@
                 <div class="col-xl-4 col-lg-4 col-md-12">
                     <div class="banner__item p-relative mb-30 w-img">
                         <div class="banner__img b-radius-2">
-                            <a href="product-details.html"><img src="public/assets/img/banner/banner-16.jpg" alt=""></a>
+                            <a href="{{url('shop')}}"><img src="public/assets/img/banner/banner-16.jpg" alt=""></a>
                         </div>
                         <div class="banner__content banner__content-2">
-                            <h6><a href="product-details.html">Sneaker <br>Nike Air Max 90 </a></h6>
+                            <h6><a href="{{url('shop')}}">Sneaker <br>Nike Air Max 90 </a></h6>
                             <p class="sm-p">Up To -60%</p>
                         </div>
                     </div>
@@ -686,7 +686,7 @@
                             <h5 class="st-titile">Top Featured Products</h5>
                         </div>
                         <div class="button-wrap button-wrap-2">
-                            <a href="product.html">See All Product <i class="fal fa-chevron-right"></i></a>
+                            <a href="{{url('shop')}}">See All Product <i class="fal fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -698,7 +698,7 @@
                             <div class="col-md-6">
                                 <div class="features-thum">
                                     <div class="features-product-image w-img">
-                                        <a href="product-details.html"><img src="public/assets/img/features-product/fpsm-1.jpg" alt=""></a>
+                                        <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fpsm-1.jpg" alt=""></a>
                                     </div>
                                     <div class="product__offer">
                                         <span class="discount">-15%</span>
@@ -721,7 +721,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="product__content product__content-d product__content-d-2">
-                                    <h6><a href="product-details.html">Samsang Galaxy A70 128GB Dual-SIM</a></h6>
+                                    <h6><a href="{{url('shop')}}">Samsang Galaxy A70 128GB Dual-SIM</a></h6>
                                     <div class="rating mb-5">
                                         <ul class="rating-d">
                                             <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -737,10 +737,10 @@
                                     </div>
                                     <div class="features-des mb-25">
                                         <ul>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                            <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                            <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                         </ul>
                                     </div>
                                     <div class="cart-option">
@@ -760,7 +760,7 @@
                                     <div class="col-6">
                                         <div class="features-thum">
                                             <div class="features-product-image w-img">
-                                                <a href="product-details.html"><img src="public/assets/img/features-product/fp-1.jpg" alt=""></a>
+                                                <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fp-1.jpg" alt=""></a>
                                             </div>
                                             <div class="product__offer">
                                                 <span class="discount">-15%</span>
@@ -769,7 +769,7 @@
                                     </div>
                                     <div class="col-6">
                                         <div class="product__content product__content-d product__content-d-2">
-                                            <h6><a href="product-details.html">Epple Watch SE Gold Aluminum</a></h6>
+                                            <h6><a href="{{url('shop')}}">Epple Watch SE Gold Aluminum</a></h6>
                                             <div class="rating mb-5">
                                                 <ul>
                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -794,7 +794,7 @@
                                     <div class="col-6">
                                         <div class="features-thum">
                                             <div class="features-product-image w-img">
-                                                <a href="product-details.html"><img src="public/assets/img/features-product/fp-2.jpg" alt=""></a>
+                                                <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fp-2.jpg" alt=""></a>
                                             </div>
                                             <div class="product__offer">
                                                 <span class="discount">-5%</span>
@@ -803,7 +803,7 @@
                                     </div>
                                     <div class="col-6">
                                         <div class="product__content product__content-d product__content-d-2">
-                                            <h6><a href="product-details.html">G951s Pink Stereo Gaming Headset</a></h6>
+                                            <h6><a href="{{url('shop')}}">G951s Pink Stereo Gaming Headset</a></h6>
                                             <div class="rating mb-5">
                                                 <ul>
                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -830,7 +830,7 @@
                                     <div class="col-6">
                                         <div class="features-thum">
                                             <div class="features-product-image w-img">
-                                                <a href="product-details.html"><img src="public/assets/img/features-product/fp-3.jpg" alt=""></a>
+                                                <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fp-3.jpg" alt=""></a>
                                             </div>
                                             <div class="product__offer">
                                                 <span class="discount">-25%</span>
@@ -839,7 +839,7 @@
                                     </div>
                                     <div class="col-6">
                                         <div class="product__content product__content-d product__content-d-2">
-                                            <h6><a href="product-details.html">Solo3 Wireless On-Ear Headphones</a></h6>
+                                            <h6><a href="{{url('shop')}}">Solo3 Wireless On-Ear Headphones</a></h6>
                                             <div class="rating mb-5">
                                                 <ul>
                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -864,13 +864,13 @@
                                     <div class="col-6">
                                         <div class="features-thum">
                                             <div class="features-product-image w-img">
-                                                <a href="product-details.html"><img src="public/assets/img/features-product/fp-4.jpg" alt=""></a>
+                                                <a href="{{url('shop')}}"><img src="public/assets/img/features-product/fp-4.jpg" alt=""></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-6">
                                         <div class="product__content product__content-d product__content-d-2">
-                                            <h6><a href="product-details.html">Men’s Short-Sleeve Pocket Oxford Shirt</a></h6>
+                                            <h6><a href="{{url('shop')}}">Men’s Short-Sleeve Pocket Oxford Shirt</a></h6>
                                             <div class="rating mb-5">
                                                 <ul>
                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -922,7 +922,7 @@
                             <h5 class="st-titile">Recommended For You</h5>
                         </div>
                         <div class="button-wrap button-wrap-2">
-                            <a href="product.html">See All Product <i class="fal fa-chevron-right"></i></a>
+                            <a href="{{url('shop')}}">See All Product <i class="fal fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -932,7 +932,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-1.jpg" alt="product">
                                 </a>
                             </div>
@@ -955,7 +955,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Epple iPad Pro 10.5-inch Cellular 64G</a></h6>
+                            <h6><a href="{{url('shop')}}">Epple iPad Pro 10.5-inch Cellular 64G</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -981,7 +981,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-2.jpg" alt="product">
                                 </a>
                             </div>
@@ -1001,7 +1001,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Men Size Yellow Basketball Jerseys</a></h6>
+                            <h6><a href="{{url('shop')}}">Men Size Yellow Basketball Jerseys</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1027,7 +1027,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-3.jpg" alt="product">
                                 </a>
                             </div>
@@ -1050,7 +1050,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Xbox Wireless Game Controller Pink</a></h6>
+                            <h6><a href="{{url('shop')}}">Xbox Wireless Game Controller Pink</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1076,7 +1076,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-7.jpg" alt="product">
                                 </a>
                             </div>
@@ -1096,7 +1096,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">APPO R11s 64GB Dual 20MP Cameras</a></h6>
+                            <h6><a href="{{url('shop')}}">APPO R11s 64GB Dual 20MP Cameras</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1122,7 +1122,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-10.jpg" alt="product">
                                 </a>
                             </div>
@@ -1142,7 +1142,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">G951s Pink Stereo Gaming Headset</a></h6>
+                            <h6><a href="{{url('shop')}}">G951s Pink Stereo Gaming Headset</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1168,7 +1168,7 @@
                     <div class="product__item product__item-2 b-radius-2 mb-20">
                         <div class="product__thumb fix">
                             <div class="product-image w-img">
-                                <a href="product-details.html">
+                                <a href="{{url('shop')}}">
                                     <img src="public/assets/img/product/tp-9.jpg" alt="product">
                                 </a>
                             </div>
@@ -1188,7 +1188,7 @@
                             </div>
                         </div>
                         <div class="product__content product__content-2">
-                            <h6><a href="product-details.html">Epple iPhone 11 Pro Max 64GB Gold</a></h6>
+                            <h6><a href="{{url('shop')}}">Epple iPhone 11 Pro Max 64GB Gold</a></h6>
                             <div class="rating mb-5 mt-10">
                                 <ul>
                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1225,7 +1225,7 @@
                             <h5 class="st-titile">Recommended For You</h5>
                         </div>
                         <div class="button-wrap button-wrap-2">
-                            <a href="product.html">See All Product <i class="fal fa-chevron-right"></i></a>
+                            <a href="{{url('shop')}}">See All Product <i class="fal fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1542,7 +1542,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                         <div class="product__modal-content">
-                            <h4><a href="product-details.html">Samsung C49J89: £875, Debenhams Plus</a></h4>
+                            <h4><a href="{{url('shop')}}">Samsung C49J89: £875, Debenhams Plus</a></h4>
                             <div class="product__review d-sm-flex">
                                 <div class="rating rating__shop mb-10 mr-30">
                                 <ul>

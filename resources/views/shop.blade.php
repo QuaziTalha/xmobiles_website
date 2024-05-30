@@ -255,13 +255,13 @@
                             <ul>
                                 <li class="product__sm-item d-flex align-items-center">
                                     <div class="product__sm-thumb mr-20">
-                                        <a href="product-details.html">
+                                        <a href="{{url('shop')}}">
                                             <img src="public/assets/img/product/sm-1.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="product__sm-content">
                                         <h5 class="product__sm-title">
-                                            <a href="product-details.html">Classic Leather Backpack Daypack 2022</a>
+                                            <a href="{{url('shop')}}">Classic Leather Backpack Daypack 2022</a>
                                         </h5>
                                         <div class="product__sm-price">
                                             <span class="price">$300.00</span>
@@ -270,13 +270,13 @@
                                 </li>
                                 <li class="product__sm-item d-flex align-items-center">
                                     <div class="product__sm-thumb mr-20">
-                                        <a href="product-details.html">
+                                        <a href="{{url('shop')}}">
                                             <img src="public/assets/img/product/sm-2.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="product__sm-content">
                                         <h5 class="product__sm-title">
-                                            <a href="product-details.html">Samsung Galaxy A12, 32GB, Black - (Locked)</a>
+                                            <a href="{{url('shop')}}">Samsung Galaxy A12, 32GB, Black - (Locked)</a>
                                         </h5>
                                         <div class="product__sm-price">
                                             <span class="price">$150.00</span>
@@ -285,7 +285,7 @@
                                 </li>
                                 <li class="product__sm-item d-flex align-items-center">
                                     <div class="product__sm-thumb mr-20">
-                                        <a href="product-details.html">
+                                        <a href="{{url('shop')}}">
                                             <img src="public/assets/img/product/sm-3.jpg" alt="">
                                         </a>
                                     </div>
@@ -300,13 +300,13 @@
                                 </li>
                                 <li class="product__sm-item d-flex align-items-center">
                                     <div class="product__sm-thumb mr-20">
-                                        <a href="product-details.html">
+                                        <a href="{{url('shop')}}">
                                             <img src="public/assets/img/product/sm-4.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="product__sm-content">
                                         <h5 class="product__sm-title">
-                                            <a href="product-details.html">Imported Wooden Felt Cushion Chair</a>
+                                            <a href="{{url('shop')}}">Imported Wooden Felt Cushion Chair</a>
                                         </h5>
                                         <div class="product__sm-price">
                                             <span class="price">$120.00</span>
@@ -315,13 +315,13 @@
                                 </li>
                                 <li class="product__sm-item d-flex align-items-center">
                                     <div class="product__sm-thumb mr-20">
-                                        <a href="product-details.html">
+                                        <a href="{{url('shop')}}">
                                             <img src="public/assets/img/product/sm-5.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="product__sm-content">
                                         <h5 class="product__sm-title">
-                                            <a href="product-details.html">Sunhouse Decorative Lights - Imported</a>
+                                            <a href="{{url('shop')}}">Sunhouse Decorative Lights - Imported</a>
                                         </h5>
                                         <div class="product__sm-price">
                                             <span class="price">$110.00</span>
@@ -339,7 +339,12 @@
                             <img class="banner-sm" src="public/assets/img/banner/sl-banner-sm.png" alt="">
                             <div class="banner-content text-center">
                                 <p class="banner-text mb-30">Hurry Up! <br> Free Shipping All Order Over $99</p>
-                                <a href="shop.html" class="st-btn-d b-radius">Discover now</a>
+                                <a href="{{url('shop
+
+
+
+
+                                ')}}" class="st-btn-d b-radius">Discover now</a>
                             </div>
                         </div>
                     </div>
@@ -397,7 +402,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-2.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -417,7 +422,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Men Size Yellow Basketball Jerseys</a></h6>
+                                                <h6><a href="{{url('shop')}}">Men Size Yellow Basketball Jerseys</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -446,7 +451,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-3.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -466,7 +471,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Xbox Wireless Game Controller Pink</a></h6>
+                                                <h6><a href="{{url('shop')}}">Xbox Wireless Game Controller Pink</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -495,7 +500,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-4.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -515,7 +520,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Wireless Bluetooth Over-Ear Headphones</a></h6>
+                                                <h6><a href="{{url('shop')}}">Wireless Bluetooth Over-Ear Headphones</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -544,7 +549,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-5.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -564,7 +569,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Solo3 Wireless On-Ear Headphones</a></h6>
+                                                <h6><a href="{{url('shop')}}">Solo3 Wireless On-Ear Headphones</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -593,7 +598,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-6.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -613,7 +618,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Vifa Bluetooth Portable Wireless Speaker</a></h6>
+                                                <h6><a href="{{url('shop')}}">Vifa Bluetooth Portable Wireless Speaker</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -642,7 +647,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-7.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -662,7 +667,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">APPO R11s 64GB Dual 20MP Cameras</a></h6>
+                                                <h6><a href="{{url('shop')}}">APPO R11s 64GB Dual 20MP Cameras</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -691,7 +696,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-10.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -711,7 +716,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">G951s Pink Stereo Gaming Headset</a></h6>
+                                                <h6><a href="{{url('shop')}}">G951s Pink Stereo Gaming Headset</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -740,7 +745,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-9.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -760,7 +765,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Epple iPhone 11 Pro Max 64GB Gold</a></h6>
+                                                <h6><a href="{{url('shop')}}">Epple iPhone 11 Pro Max 64GB Gold</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -789,7 +794,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-20.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -809,7 +814,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Casentino Bucket Hat Luxury Goods – Imported</a></h6>
+                                                <h6><a href="{{url('shop')}}">Casentino Bucket Hat Luxury Goods – Imported</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -838,7 +843,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-12.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -858,7 +863,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Classic Leather Backpack Daypack 2022</a></h6>
+                                                <h6><a href="{{url('shop')}}">Classic Leather Backpack Daypack 2022</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -887,7 +892,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-13.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -907,7 +912,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Coffee Maker AH240a Full Function</a></h6>
+                                                <h6><a href="{{url('shop')}}">Coffee Maker AH240a Full Function</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -936,7 +941,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-14.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -956,7 +961,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Imported Wooden Felt Cushion Chair</a></h6>
+                                                <h6><a href="{{url('shop')}}">Imported Wooden Felt Cushion Chair</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -985,7 +990,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-15.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1005,7 +1010,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Sunhouse Decorative Lights – Imported</a></h6>
+                                                <h6><a href="{{url('shop')}}">Sunhouse Decorative Lights – Imported</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1034,7 +1039,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-16.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1054,7 +1059,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Korea Stainless Steel Pot Set 5 Piecs</a></h6>
+                                                <h6><a href="{{url('shop')}}">Korea Stainless Steel Pot Set 5 Piecs</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1083,7 +1088,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-17.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1103,7 +1108,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">HP Stainless Steel Hot Water Bottle</a></h6>
+                                                <h6><a href="{{url('shop')}}">HP Stainless Steel Hot Water Bottle</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1132,7 +1137,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-18.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1152,7 +1157,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">The North Face Womens Resolve 2 Jack</a></h6>
+                                                <h6><a href="{{url('shop')}}">The North Face Womens Resolve 2 Jack</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1181,7 +1186,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-22.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1201,7 +1206,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Diesel J Ross Rev Reversy Bomber Jacket</a></h6>
+                                                <h6><a href="{{url('shop')}}">Diesel J Ross Rev Reversy Bomber Jacket</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1230,7 +1235,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-23.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1250,7 +1255,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">HOT – H&M “Spring Icons” Collaboration Jackets</a></h6>
+                                                <h6><a href="{{url('shop')}}">HOT – H&M “Spring Icons” Collaboration Jackets</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1279,7 +1284,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-24.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1299,7 +1304,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Taffy Candy Laff Bites Net 4.2 oz</a></h6>
+                                                <h6><a href="{{url('shop')}}">Taffy Candy Laff Bites Net 4.2 oz</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1328,7 +1333,7 @@
                                         <div class="product__item product__item-d">
                                             <div class="product__thumb fix">
                                                 <div class="product-image w-img">
-                                                    <a href="product-details.html">
+                                                    <a href="{{url('shop')}}">
                                                         <img src="public/assets/img/product/tp-26.jpg" alt="product">
                                                     </a>
                                                 </div>
@@ -1348,7 +1353,7 @@
                                                 </div>
                                             </div>
                                             <div class="product__content-3">
-                                                <h6><a href="product-details.html">Vinh Long Fresh Mangosteen 500g</a></h6>
+                                                <h6><a href="{{url('shop')}}">Vinh Long Fresh Mangosteen 500g</a></h6>
                                                 <div class="rating mb-5">
                                                     <ul>
                                                         <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1386,7 +1391,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-1.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-1.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product__offer">
                                                                 <span class="discount">-15%</span>
@@ -1409,7 +1414,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">Classic Leather Backpack Daypack 2022</a></h6>
+                                                            <h6><a href="{{url('shop')}}">Classic Leather Backpack Daypack 2022</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1422,10 +1427,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1457,7 +1462,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-2.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-2.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product-action">
                                                                 <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -1477,7 +1482,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">Samsang Galaxy A70 128GB Dual-SIM</a></h6>
+                                                            <h6><a href="{{url('shop')}}">Samsang Galaxy A70 128GB Dual-SIM</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1490,10 +1495,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1525,7 +1530,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-3.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-3.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product-action">
                                                                 <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -1545,7 +1550,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">Coffee Maker AH240a Full Function</a></h6>
+                                                            <h6><a href="{{url('shop')}}">Coffee Maker AH240a Full Function</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1558,10 +1563,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1593,7 +1598,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-4.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-4.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product-action">
                                                                 <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -1613,7 +1618,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">Imported Wooden Felt Cushion Chair</a></h6>
+                                                            <h6><a href="{{url('shop')}}">Imported Wooden Felt Cushion Chair</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1626,10 +1631,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1661,7 +1666,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-5.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-5.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product__offer">
                                                                 <span class="discount">-15%</span>
@@ -1684,7 +1689,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">Sunhouse Decorative Lights – Imported</a></h6>
+                                                            <h6><a href="{{url('shop')}}">Sunhouse Decorative Lights – Imported</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1697,10 +1702,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1732,7 +1737,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-6.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-6.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product-action">
                                                                 <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -1752,7 +1757,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">Korea Stainless Steel Pot Set 5 Piecs</a></h6>
+                                                            <h6><a href="{{url('shop')}}">Korea Stainless Steel Pot Set 5 Piecs</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1765,10 +1770,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1800,7 +1805,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-7.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-7.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product-action">
                                                                 <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -1820,7 +1825,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">HP Stainless Steel Hot Water Bottle</a></h6>
+                                                            <h6><a href="{{url('shop')}}">HP Stainless Steel Hot Water Bottle</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1833,10 +1838,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1868,7 +1873,7 @@
                                                     <div class="col-md-4">
                                                         <div class="features-thum">
                                                             <div class="features-product-image w-img">
-                                                                <a href="product-details.html"><img src="public/assets/img/product/sm-8.jpg" alt=""></a>
+                                                                <a href="{{url('shop')}}"><img src="public/assets/img/product/sm-8.jpg" alt=""></a>
                                                             </div>
                                                             <div class="product-action">
                                                                 <a href="#" class="icon-box icon-box-1" data-bs-toggle="modal" data-bs-target="#productModalId">
@@ -1888,7 +1893,7 @@
                                                     </div>
                                                     <div class="col-md-8">
                                                         <div class="product__content product__content-d">
-                                                            <h6><a href="product-details.html">The North Face Womens Resolve 2 Jack</a></h6>
+                                                            <h6><a href="{{url('shop')}}">The North Face Womens Resolve 2 Jack</a></h6>
                                                             <div class="rating mb-5">
                                                                 <ul class="rating-d">
                                                                     <li><a href="#"><i class="fal fa-star"></i></a></li>
@@ -1901,10 +1906,10 @@
                                                             </div>
                                                             <div class="features-des">
                                                                 <ul>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
-                                                                    <li><a href="product-details.html"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Bass and Stereo Sound.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Display with 3088 x 1440 pixels resolution.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Memory, Storage &amp; SIM: 12GB RAM, 256GB.</a></li>
+                                                                    <li><a href="{{url('shop')}}"><i class="fas fa-circle"></i> Androi v10.0 Operating system.</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1938,22 +1943,52 @@
                                     <nav>
                                        <ul>
                                           <li>
-                                             <a href="shop.html" class="active">1</a>
+                                             <a href="{{url('shop
+
+
+
+
+                                             ')}}" class="active">1</a>
                                           </li>
                                           <li>
-                                             <a href="shop.html">2</a>
+                                             <a href="{{url('shop
+
+
+
+
+                                             ')}}">2</a>
                                           </li>
                                           <li>
-                                             <a href="shop.html">3</a>
+                                             <a href="{{url('shop
+
+
+
+
+                                             ')}}">3</a>
                                           </li>
                                          <li>
-                                            <a href="shop.html">5</a>
+                                            <a href="{{url('shop
+
+
+
+
+                                            ')}}">5</a>
                                          </li>
                                          <li>
-                                            <a href="shop.html">6</a>
+                                            <a href="{{url('shop
+
+
+
+
+                                            ')}}">6</a>
                                          </li>
                                           <li>
-                                             <a href="shop.html">
+                                             <a href="{{url('shop
+
+
+
+
+                                             ')}}">
                                                 <i class="fal fa-angle-double-right"></i>
                                              </a>
                                           </li>
@@ -2029,7 +2064,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                             <div class="product__modal-content">
-                                <h4><a href="product-details.html">Samsung C49J89: £875, Debenhams Plus</a></h4>
+                                <h4><a href="{{url('shop')}}">Samsung C49J89: £875, Debenhams Plus</a></h4>
                                 <div class="product__review d-sm-flex">
                                     <div class="rating rating__shop mb-10 mr-30">
                                     <ul>
